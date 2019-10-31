@@ -32,6 +32,7 @@ To make your First PR follow the below commands:
     8. Then type --> git remote set-url origin "https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME.git"
     
     9. Then finally push --> git push origin test
+        9. Then finally push --> git push origin test
 
 
     Hurray!!! You just got closer to completing your hacktoberfest challenge. 😃
